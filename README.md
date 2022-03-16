@@ -1,4 +1,4 @@
-# random_wallpaper
+# random_wallpaper.sh
 Script da cronare per cambio wallpaper casuale, passare come argomento la directory
 
 Ad esempio per cambio wallpaper ogni 5 minuti:
