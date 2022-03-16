@@ -3,7 +3,7 @@
 # check arguments
 if [ -z "$1" ]
 then
-	echo "Manca argomento directory wallpapers"
+	echo "Missing wallpapers directory argument"
 	exit 1
 fi
 
